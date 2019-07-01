@@ -1,0 +1,11 @@
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\CoreAlways\CoreAlways\obj\Debug\netcoreapp2.2\CoreAlways.csprojAssemblyReference.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\CoreAlways\CoreAlways\obj\Debug\netcoreapp2.2\CoreAlways.csproj.CoreCompileInputs.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\CoreAlways\CoreAlways\obj\Debug\netcoreapp2.2\CoreAlways.AssemblyInfoInputs.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\CoreAlways\CoreAlways\obj\Debug\netcoreapp2.2\CoreAlways.AssemblyInfo.cs
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\CoreAlways\CoreAlways\bin\Debug\netcoreapp2.2\CoreAlways.deps.json
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\CoreAlways\CoreAlways\bin\Debug\netcoreapp2.2\CoreAlways.runtimeconfig.json
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\CoreAlways\CoreAlways\bin\Debug\netcoreapp2.2\CoreAlways.runtimeconfig.dev.json
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\CoreAlways\CoreAlways\bin\Debug\netcoreapp2.2\CoreAlways.dll
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\CoreAlways\CoreAlways\bin\Debug\netcoreapp2.2\CoreAlways.pdb
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\CoreAlways\CoreAlways\obj\Debug\netcoreapp2.2\CoreAlways.dll
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\CoreAlways\CoreAlways\obj\Debug\netcoreapp2.2\CoreAlways.pdb

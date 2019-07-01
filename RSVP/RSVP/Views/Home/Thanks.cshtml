@@ -1,0 +1,17 @@
+﻿@model RSVP.Models.GuestResponse
+@{
+    ViewData["Title"] = "Thanks";
+}
+
+<p>
+    <h1> Thank you, @Model.Name!</h1>
+    @if (Model.WillAttend== true)
+    {
+        @:It's great that you are coming. the drinks are already in the fridge.
+    }
+    else
+    {
+        @:Sorry to hear that you cant make it, but thanks for letting us know.
+    }
+</p>
+<p> Click <a asp-action="ListResponses"> here</a> to see who is coming and <a asp-action="ListResponses">here </a> for WHo couldnt make it</p>

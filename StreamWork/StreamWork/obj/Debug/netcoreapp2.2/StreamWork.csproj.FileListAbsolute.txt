@@ -1,0 +1,11 @@
+C:\Users\OLAMIDE ONAKOYA\source\repos\StreamWork\StreamWork\bin\Debug\netcoreapp2.2\StreamWork.deps.json
+C:\Users\OLAMIDE ONAKOYA\source\repos\StreamWork\StreamWork\bin\Debug\netcoreapp2.2\StreamWork.runtimeconfig.json
+C:\Users\OLAMIDE ONAKOYA\source\repos\StreamWork\StreamWork\bin\Debug\netcoreapp2.2\StreamWork.runtimeconfig.dev.json
+C:\Users\OLAMIDE ONAKOYA\source\repos\StreamWork\StreamWork\bin\Debug\netcoreapp2.2\StreamWork.dll
+C:\Users\OLAMIDE ONAKOYA\source\repos\StreamWork\StreamWork\bin\Debug\netcoreapp2.2\StreamWork.pdb
+C:\Users\OLAMIDE ONAKOYA\source\repos\StreamWork\StreamWork\obj\Debug\netcoreapp2.2\StreamWork.csprojAssemblyReference.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\StreamWork\StreamWork\obj\Debug\netcoreapp2.2\StreamWork.csproj.CoreCompileInputs.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\StreamWork\StreamWork\obj\Debug\netcoreapp2.2\StreamWork.AssemblyInfoInputs.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\StreamWork\StreamWork\obj\Debug\netcoreapp2.2\StreamWork.AssemblyInfo.cs
+C:\Users\OLAMIDE ONAKOYA\source\repos\StreamWork\StreamWork\obj\Debug\netcoreapp2.2\StreamWork.dll
+C:\Users\OLAMIDE ONAKOYA\source\repos\StreamWork\StreamWork\obj\Debug\netcoreapp2.2\StreamWork.pdb

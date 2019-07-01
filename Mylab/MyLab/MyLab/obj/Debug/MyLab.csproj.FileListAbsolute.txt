@@ -1,0 +1,7 @@
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\MyLab\MyLab\bin\Debug\MyLab.exe.config
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\MyLab\MyLab\bin\Debug\MyLab.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\MyLab\MyLab\bin\Debug\MyLab.pdb
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\MyLab\MyLab\obj\Debug\MyLab.csprojAssemblyReference.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\MyLab\MyLab\obj\Debug\MyLab.csproj.CoreCompileInputs.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\MyLab\MyLab\obj\Debug\MyLab.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\Mylab\MyLab\MyLab\obj\Debug\MyLab.pdb
